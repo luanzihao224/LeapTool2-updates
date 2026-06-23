@@ -1,0 +1,25 @@
+# Local scratch files
+*.tmp
+*.log
+
+# Keep release artifacts intentional.
+# APK/patch files should normally be uploaded to GitHub/Gitee Release assets,
+# not committed into Git history. If you intentionally commit a small test
+# artifact, remove or override these rules for that file.
+*.apk
+*.apks
+*.aab
+*.bin
+*.patch
+*.diff
+*.zip
+*.7z
+*.rar
+
+# Do not publish secrets.
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.env

@@ -1,0 +1,16 @@
+{
+  "versionCode": 0,
+  "versionName": "0.0.0",
+  "force": false,
+  "minSupportedVersionCode": 0,
+  "publishedAt": "2026-06-23T00:00:00+08:00",
+  "changelog": [
+    "初始化更新分发仓库。"
+  ],
+  "apk": {
+    "sha256": "",
+    "size": 0,
+    "urls": []
+  },
+  "patches": []
+}
