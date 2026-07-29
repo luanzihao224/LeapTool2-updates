@@ -1,16 +1,1 @@
-{
-  "versionCode": 0,
-  "versionName": "0.0.0",
-  "force": false,
-  "minSupportedVersionCode": 0,
-  "publishedAt": "2026-06-23T00:00:00+08:00",
-  "changelog": [
-    "初始化更新分发仓库。"
-  ],
-  "apk": {
-    "sha256": "",
-    "size": 0,
-    "urls": []
-  },
-  "patches": []
-}
+{"hasUpdate":true,"versionCode":101,"versionName":"1.0.1","publishedAt":"2026-07-29 14:43:30","force":false,"sizeBytes":70062396,"sha256":"3e81e6f93122098602473be5a60b31c231d586dc3f61a30d147bdf07546a13f2","serverApkUrl":"http://101.200.49.220/app-api/update/download/101/app-licensed-release.apk","githubApkUrl":"https://raw.githubusercontent.com/luanzihao224/LeapTool2-updates/main/releases/101/app-licensed-release.apk","giteeApkUrl":"https://gitee.com/xiaoheigg/LeapTool2-updates/raw/main/releases/101/app-licensed-release.apk","notes":["试用期内开放应用中心和 APK 签名","试用仅保留授权有效期和离线 License 限制"],"apk":{"fileName":"app-licensed-release.apk","sizeBytes":70062396,"sha256":"3e81e6f93122098602473be5a60b31c231d586dc3f61a30d147bdf07546a13f2","sources":[{"name":"server","displayName":"服务器","url":"http://101.200.49.220/app-api/update/download/101/app-licensed-release.apk","priority":1},{"name":"github","displayName":"GitHub","url":"https://raw.githubusercontent.com/luanzihao224/LeapTool2-updates/main/releases/101/app-licensed-release.apk","priority":2},{"name":"gitee","displayName":"Gitee","url":"https://gitee.com/xiaoheigg/LeapTool2-updates/raw/main/releases/101/app-licensed-release.apk","priority":3}]}}
